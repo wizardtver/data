@@ -18,14 +18,14 @@
 * выявление лидеров среди работодателей и лидеров среди регионов.
 * детальный анализ вакансий по Data-Science.
 
-**Цель анализа данных работодателей HH.ru** — выявить лидеров работодателей по вакансиям, какие профессиональные навыки необходимо иметь соискателям, чтобы претендовать на данную работу.
+**Цель анализа данных работодателей HH.ru** — выявить лидеров работодателей по вакансиям, какие профессиональные навыки необходимо иметь соискателям, чтобы претендовать на работу.
 
 **Данный проект** направлен на практическое применение PostgreSQL в решении задач, которые стоят перед
 Data-Science
 
 **О структуре проекта:**
-* [Project-2.Analys employer HH](https://github.com/wizardtver/data) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируется решение по поставленным задачам
-* [Grafics](https://github.com/wizardtver/data/tree/master/images) - статический график plotly 
+* [Project_2 Analys employers HH](https://github.com/wizardtver/data/tree/master/project%202) - jupyter-ноутбук, содержащий основной код проекта, в котором демонстрируется решение по поставленным задачам
+* [Grafics](https://github.com/wizardtver/data/tree/master/project%202/image) - статический график plotly 
 
 
 ## Описание данных
@@ -42,17 +42,19 @@ Data-Science
 * Python (3.11.3):
     * [pandas (2.0.1)](https://pandas.pydata.org)
     * [psycopg2 (2.9.6)](https://www.psycopg.org)
+    * [requests (2.31.0)](https://requests.readthedocs.io)
+    * [BeautifulSoup (4.12.2)](http://www.crummy.com/software/BeautifulSoup/bs4/)
     * [plotly (5.14.1)](https://plotly.org)
   
 
 ## Установка проекта
 
 ```
-git clone https://github.com/wizardtver/data
+git clone https://github.com/wizardtver/data/tree/master/project%202
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке Project-2.Analys employer HH.ipynb.
+Вся информация о работе представлена в jupyter-ноутбуке Project_2 Analys employers HH.ipynb.
 
 ## Авторы
 
